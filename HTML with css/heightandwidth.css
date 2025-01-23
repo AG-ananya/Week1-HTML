@@ -1,0 +1,13 @@
+.box{
+    height: 500px;
+    width: 500px;
+}
+#box1{
+    background-color: antiquewhite;
+}
+#box2{
+    background-color: aliceblue;
+}
+#box3{
+    background-color:burlywood;
+}
